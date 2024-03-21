@@ -100,4 +100,8 @@ void mkDASHABI()
         System.out.println("See u guys in Starlight Fantasy this Saturday WRYYYYY!!!");
     }
   
+
+void hello(){
+System.out.println("Hellllooooo");
+}
 }
